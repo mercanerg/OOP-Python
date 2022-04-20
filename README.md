@@ -5,8 +5,8 @@ Object Oriented Programming in Python
 ![OOP_class3](https://user-images.githubusercontent.com/99150113/164128193-98734c7f-2038-4c08-9675-beda8ca68872.png)
 
  *** Thanks to Corey Schafer ***
- 
  https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g
+ 
 A Python program is an object-oriented language, which divides its code into objects, whereas a procedure oriented program is divided into functions. 
 A class is simply a blueprint for an object, as an object is simply a collection of attributes (variables) and methods (functions) that act upon those attributes.
 
